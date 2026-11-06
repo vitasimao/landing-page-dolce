@@ -1,26 +1,57 @@
-# DOLCE — Alta Repostería de Autor
-
-![DOLCE Landing Page Preview](assets/images/hero-box.jpeg)
-
-Landing page de alta gama desarrollada bajo la filosofía estética **Quiet Luxury**, diseñada con un enfoque minimalista, paleta cromática sobria (crema y borgoña profundo) y tipografías editoriales.
-
----
-
-## 🛠️ Tecnologías y Metodologías
-* **HTML5** (Estructura semántica)
-* **CSS3** (Grid Layout, Flexbox, Custom Properties y diseño **Mobile First**)
-* **JavaScript (ES6+)** (Carrusel rotativo automático de testimonios y acordeón de FAQ con animaciones fluidas)
-* **Prototipado:** Figma (Diseño UI/UX de alta fidelidad)
+<div align="center">
+  <h1>DOLCE — High-End Pastry Landing Page</h1>
+  <p><strong>Español | English</strong></p>
+  <p><i>Landing page de alta gama orientada a la conversión y desarrollada bajo la filosofía estética Quiet Luxury.</i></p>
+  <p><i>High-end conversion-oriented landing page built with a Quiet Luxury aesthetic.</i></p>
+</div>
 
 ---
 
-## ✨ Características del Proyecto
-* **Hero Section:** Imagen principal con recorte editorial y retícula adaptativa.
-* **Galería de Sabores:** Grilla de 6 variedades con tarjetas verticales de gran formato (*portrait*).
-* **Sección de Pre-Order:** Bloque explicativo del modelo de reserva y suscripción a *El Club Dolce*.
-* **Carrusel de Testimonios (*DOLCE Love*):** Rotación automática con control manual por líneas indicadoras.
-* **Preguntas Frecuentes (FAQ):** Acordeón interactivo de extremo a extremo con despliegue animado mediante CSS Grid.
+## 🇪🇸 Español
+
+### 📌 Descripción del Proyecto
+DOLCE es una landing page interactiva desarrollada para una marca de repostería de autor de alta gama. El proyecto combina una arquitectura visual sofisticada (*Quiet Luxury*) con una estructura técnica limpia, totalmente responsive y centrada en la experiencia de usuario (UX/UI) y la conversión de ventas.
+
+### 🛠️ Stack Tecnológico
+* **Frontend:** HTML5 semántico, CSS3 (Mobile First, CSS Grid, Flexbox, Variables CSS), JavaScript ES6+.
+* **Diseño & UX/UI:** Figma (Prototipado interactivo, grilla tipográfica y sistema de diseño).
+* **Despliegue:** Git & GitHub Pages.
+
+### ✨ Características Principales
+* **Sección Hero:** Presentación de marca con llamado a la acción (CTA) directo.
+* **Grilla de Productos:** Layout responsive optimizado para destacar repostería de autor.
+* **Acordeón Animado:** FAQ dinámico desarrollado con CSS Grid y JavaScript para transiciones fluidas.
+* **Carrusel de Testimonios:** Slider automático y responsive para potenciar la prueba social.
+* **Formulario de Contacto:** UI optimizada para captación de clientes.
+
+### 🚀 Despliegue en Vivo
+Puedes ver el proyecto online en: [https://vitasimao.github.io/landing-page-dolce/](https://vitasimao.github.io/landing-page-dolce/)
 
 ---
 
-*Diseñado y desarrollado por Vita Simao.*
+## 🇬🇧 English
+
+### 📌 Project Overview
+DOLCE is an interactive landing page built for a high-end artisanal pastry brand. The project seamlessly blends a sophisticated visual architecture (*Quiet Luxury*) with a clean, fully responsive codebase focused on user experience (UX/UI) and conversion rate optimization.
+
+### 🛠️ Tech Stack
+* **Frontend:** Semantic HTML5, CSS3 (Mobile First, CSS Grid, Flexbox, CSS Variables), JavaScript ES6+.
+* **Design & UX/UI:** Figma (Interactive prototyping, typographic grid, and design system).
+* **Deployment:** Git & GitHub Pages.
+
+### ✨ Key Features
+* **Hero Section:** Brand showcase featuring a direct Call-To-Action (CTA).
+* **Product Grid:** Responsive layout optimized for showcasing artisanal products.
+* **Animated Accordion:** Dynamic FAQ powered by CSS Grid and JavaScript for smooth height transitions.
+* **Testimonial Carousel:** Automatic, responsive slider designed to leverage social proof.
+* **Contact Form:** High-conversion UI built for customer inquiries.
+
+### 🚀 Live Demo
+Check out the live website here: [https://vitasimao.github.io/landing-page-dolce/](https://vitasimao.github.io/landing-page-dolce/)
+
+---
+
+<div align="center">
+  <p>Developed with precision by <strong>Vita Simao</strong></p>
+  <p><a href="https://linkedin.com/in/vitasimao">LinkedIn</a> • <a href="https://vitasimao.com">Website</a></p>
+</div>
